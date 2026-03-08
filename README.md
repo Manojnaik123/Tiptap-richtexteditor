@@ -1,5 +1,5 @@
+
 > remember the setcodeblock dosent work like the toggle 
-> 
 ### this will remove the ring arround the editorContent on focus
 > [&_.tiptap]:focus:ring-0 [&_.tiptap]:focus:outline-none
 
@@ -357,5 +357,4 @@ const RichTextEditor = () => {
 }
 
 export default RichTextEditor
-```#   T i p t a p - r i c h t e x t e d i t o r  
- 
+```
